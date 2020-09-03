@@ -1,6 +1,6 @@
 body{
  height:500px;
- background-image : url("") background-repeat: no-repeat;
+ background-repeat: no-repeat;
  background-position: right 50% bottom 100%;
 }
 
@@ -14,8 +14,4 @@ body{
 
 body,p,h1,h2,h3{
  margin:0px auto;
- }
-
-.topic{
- background-color:#fff0f5;
  }
