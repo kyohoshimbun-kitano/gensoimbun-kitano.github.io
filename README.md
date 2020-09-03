@@ -1,0 +1,1 @@
+# kyohoshimbun-kitano.github.io
